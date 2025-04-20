@@ -38,9 +38,7 @@ public class Parcela {
         return fgPago;
     }
 
-    public Double getJuros() {
-        return juros;
-    }
+    public Double getJuros() { return juros; }
 
     public Double getAmortizacao() {
         return amortizacao;
